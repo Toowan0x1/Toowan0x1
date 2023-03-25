@@ -12,10 +12,6 @@ Also because I love working on interesting software projects, I learn some new h
 
 </p>
 
-<div align="center" style="margin-top: 10px">
-   <a align="left" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/oel-houm" alt="oel-houm's 42 stats" /></a>
-</div>
-
 <!--
 <a align="right" href="https://github.com/anuraghazra?tab=repositories">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark"/>
