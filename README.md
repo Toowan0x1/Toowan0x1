@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a >💻 Doing Offensive Security, & App Security </a>
+    <a >💻 Doing Offensive Security, & App Security </a><br>
     <a href="https://smakosh.com">About me</a> .
     <a href="https://twitter.com/Toowan0x1">Twitter</a> .
     <a href="https://discordapp.com/users/id">Discord</a> .
