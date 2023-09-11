@@ -1,5 +1,5 @@
-💻 Doing Offensive Security, AppSec & 
 <p align="center">
+  💻 Doing Offensive Security, AppSec & 
   <samp>
     <a href="https://smakosh.com">About me</a> .
     <a href="https://twitter.com/Toowan0x1">Twitter</a> .
