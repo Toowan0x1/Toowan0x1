@@ -10,5 +10,5 @@
     <a href="https://profile.intra.42.fr/users/oel-houm">Intra login</a> .
     <a href="https://toowan0x1.github.io">About me</a>
   </samp>
-  <img src="https://i.pinimg.com/originals/95/ef/b8/95efb8425d270933e5e890b33ab5ef70.gif">
+  <img src="https://i.pinimg.com/originals/95/ef/b8/95efb8425d270933e5e890b33ab5ef70.gif" alt="hi" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
