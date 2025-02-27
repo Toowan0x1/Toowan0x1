@@ -10,5 +10,5 @@
     <a href="https://profile.intra.42.fr/users/oel-houm"><b>Intra login</b></a> .
     <a href="https://toowan0x1.github.io"><b>About me</b></a>
   </samp><br><br>
-  <img src="https://github.com/Toowan0x1/Toowan0x1/blob/master/car_cyberpunk.gif?raw=true" alt="hi">
+  <!-- <img src="https://github.com/Toowan0x1/Toowan0x1/blob/master/car_cyberpunk.gif?raw=true" alt="hi"> -->
 </p>
