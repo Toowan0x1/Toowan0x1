@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a><b> ---- Toowan0x1 ---- </b></a><br>
+    <a><b> --- Toowan0x1 --- </b></a><br>
     <a><b> Cybersecurity & Offensive Security | Penetration Tester | Student <a herf="https://x.com/1337fil">@1337</a> </b></a><br>
     <a href="https://twitter.com/Toowan0x1"><b>Twitter</b></a> .
     <a href="https://www.linkedin.com/in/toowan0x1/"><b>Linkedin</b></a> .
@@ -15,5 +15,4 @@
   <!-- <img src="https://github.com/Toowan0x1/Toowan0x1/blob/master/car_cyberpunk.gif?raw=true" alt="hi"> -->
 </p>
 
-Contact info:
 - Email: contact.omar.elhoumadi@gmail.com
