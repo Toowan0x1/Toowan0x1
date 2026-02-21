@@ -15,6 +15,6 @@
   <!-- <img src="https://github.com/Toowan0x1/Toowan0x1/blob/master/car_cyberpunk.gif?raw=true" alt="hi"> -->
 </p>
 
-<p align="center">
+<center>
 - Email: contact.omar.elhoumadi@gmail.com
-</p>
+</center>
