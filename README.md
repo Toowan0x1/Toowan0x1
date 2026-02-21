@@ -12,7 +12,11 @@
     <!-- <a href="https://profile.intra.42.fr/users/oel-houm"><b>Intra login</b></a> . -->
     <a href="https://toowan0x1.github.io"><b>Toowan0x1.me</b></a>
     <br>
-    Email: <a href="" style="text-decoration:none; margin-top='15px'">contact.omar.elhoumadi@gmail.com</a>
+    Email: <a href="" style="text-decoration:none; ">contact.omar.elhoumadi@gmail.com</a>
+    <br>
+    <p style="margin-top: 10px;">
+      Email: <a href="mailto:contact.omar.elhoumadi@gmail.com" style="text-decoration: none;"> contact.omar.elhoumadi@gmail.com </a>
+    </p>
   </samp><br><br>
   <!-- <img src="https://github.com/Toowan0x1/Toowan0x1/blob/master/car_cyberpunk.gif?raw=true" alt="hi"> -->
 </p>
