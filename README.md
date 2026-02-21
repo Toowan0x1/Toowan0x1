@@ -16,5 +16,4 @@
 </p>
 
 - Email: <a href="" style="text-decoration:none; ">contact.omar.elhoumadi@gmail.com</a>
-<br>
 - Writeups: soon..
