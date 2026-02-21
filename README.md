@@ -5,6 +5,8 @@
     <a href="https://twitter.com/Toowan0x1"><b>Twitter</b></a> .
     <a href="https://www.linkedin.com/in/omar-elhoumadi/"><b>Linkedin</b></a> .
     <a href="https://toowan0x1.medium.com/"><b>Medium</b></a> .
+    <a href="https://app.hackthebox.com/public/users/664839"><b>HTB</b></a> .
+    <a href="https://tryhackme.com/p/Toowan0x1"><b>THM</b></a> .
     <!-- <a href="https://discordapp.com/users/Toowan5118"><b>Discord</b></a> . -->
     <a href="https://gist.github.com/Toowan0x1"><b>Github Gist</b></a> .
     <!-- <a href="https://profile.intra.42.fr/users/oel-houm"><b>Intra login</b></a> . -->
