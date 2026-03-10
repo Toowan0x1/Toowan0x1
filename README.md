@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <a><b> --- Toowan0x1 --- </b></a><br>
-    <a><b> Cybersecurity & Offensive Security | Penetration Tester | Graduate of <a href="https://x.com/1337fil">1337</a>/<a href="https://www.42network.org/42-schools/">42 Network</a> </b></a><br>
+    <a><b> Cybersecurity & Offensive Security | Penetration Tester | Graduate of <a href="https://x.com/1337fil" style="text-decoration: none;">1337</a> / <a href="https://www.42network.org/42-schools/">42 Network</a> </b></a><br>
     <a href="https://twitter.com/Toowan0x1"><b>Twitter</b></a> .
     <a href="https://www.linkedin.com/in/toowan0x1/"><b>Linkedin</b></a> .
     <a href="https://toowan0x1.medium.com/"><b>Medium</b></a> .
