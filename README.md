@@ -2,6 +2,7 @@
   <samp>
     <a><b> --- Toowan0x1 --- </b></a><br>
     <a><b> Cybersecurity & Offensive Security | Penetration Tester | Graduate of <a href="https://x.com/1337fil">1337</a> / <a href="https://www.42network.org/42-schools/">42 Network</a> </b></a><br>
+    <br>
     <a href="https://twitter.com/Toowan0x1"><b>Twitter</b></a> .
     <a href="https://www.linkedin.com/in/toowan0x1/"><b>Linkedin</b></a> .
     <a href="https://toowan0x1.medium.com/"><b>Medium</b></a> .
@@ -15,6 +16,7 @@
   <!-- <img src="https://github.com/Toowan0x1/Toowan0x1/blob/master/car_cyberpunk.gif?raw=true" alt="hi"> -->
 </p>
 
+<!-- 
 ```json
 {
   "username": "Toowan0x1",
@@ -25,6 +27,7 @@
   "mission": "Find bugs. Break systems. Secure them."
 }
 ```
+-->
 
 <!-- - Email: <a href="" style="text-decoration:none; ">contact.omar.elhoumadi@gmail.com</a> -->
 
