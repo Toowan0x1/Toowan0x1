@@ -15,5 +15,16 @@
   <!-- <img src="https://github.com/Toowan0x1/Toowan0x1/blob/master/car_cyberpunk.gif?raw=true" alt="hi"> -->
 </p>
 
+```json
+{
+  "username": "Toowan0x1",
+  "status": "online",
+  "mode": "offensive_security",
+  "targets": ["web", "network", "active_directory"],
+  "labs": ["HackTheBox", "TryHackMe"],
+  "mission": "Find bugs. Break systems. Secure them."
+}
+```
+
 <!-- - Email: <a href="" style="text-decoration:none; ">contact.omar.elhoumadi@gmail.com</a> -->
 
